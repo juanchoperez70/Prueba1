@@ -2,7 +2,7 @@
 <html lang="es-ES">
 <head>
 	<meta charset="UTF-8">
-	<title>Suma de 2 numeros en PHP</title>
+	<title>Suma de 2 numeros en PHP(prueba)</title>
 </head>
 <body>
 <H2>Suma de 2 numeros en PHP</H2>
