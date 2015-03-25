@@ -7,5 +7,3 @@ php:
   - nightly
 script: phpunit
 # configure notifications (email, IRC, campfire etc)
-notifications:
-  email: "juanchoperez70@gmail.com"
