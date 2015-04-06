@@ -30,6 +30,6 @@
 		['numero2'];
 		$suma = $num1 
 		+ $num2;
-		echo "La suma de ".$num1." y ".$num2." es ".$suma; 
+		echo "La suma de ".$num1." y ".$num2." es igual a ".$suma; 
 	}
 ?>
