@@ -9,7 +9,7 @@
 
     <testsuites>
         <testsuite name="Sumador Test Suite">
-            <directory>./Tests/</directory>
+            <directory>./Test/</directory>
         </testsuite>
     </testsuites>
 
