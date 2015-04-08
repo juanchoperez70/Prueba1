@@ -6,4 +6,5 @@ php:
   - 5.5.9
   - hhvm
   - nightly
-script: phpunit
+before_script: composer install  
+script: phpunit --configuration ./phpunit.xml
